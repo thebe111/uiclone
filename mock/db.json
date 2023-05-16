@@ -1,0 +1,9 @@
+{
+    "servers": [
+        { "id": 1, "isHome": true, "hasNotification": false, "mentions": 0, "selected": false },
+        { "id": 2, "isHome": false, "hasNotification": false, "mentions": 0, "selected": false },
+        { "id": 3, "isHome": false, "hasNotification": true, "mentions": 999, "selected": false },
+        { "id": 4, "isHome": false, "hasNotification": false, "mentions": 30, "selected": false },
+        { "id": 5, "isHome": false, "hasNotification": true, "mentions": 0, "selected": false }
+    ]
+}
